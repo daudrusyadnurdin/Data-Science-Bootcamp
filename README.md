@@ -10,3 +10,5 @@ Topics include:
 
 Each folder contains Jupyter notebooks, datasets, or presentation slides
 related to the specific project.
+
+FYI. The language of tasks still used mixed Bahasa and English as the original versions when I submitted the assignment to the mentors.
