@@ -1,3 +1,12 @@
 # Data Science Bootcamp Projects
-Collection of projects and exercises from the Dibimbing.id Data Science Bootcamp.
-Includes data analysis, visualization (using Power BI), and machine learning notebooks.
+
+This repository contains projects and exercises completed during the
+Dibimbing.id Data Science Bootcamp.  
+Topics include:
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Visualization with Python
+- Machine learning models (classification, clustering)
+
+Each folder contains Jupyter notebooks, datasets, or presentation slides
+related to the specific project.
